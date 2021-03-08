@@ -1,2 +1,2 @@
 # hello-world
-Just followng the github tutorial
+Just following the github tutorial
